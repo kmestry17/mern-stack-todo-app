@@ -34,8 +34,8 @@ This is a simple yet powerful to-do application built using the MERN stack: Mong
 
 **Screenshots:**
 
-**[Screenshot 1: Frontend App View](/screenshots/frontend_ui.png) ** 
-**[Screenshot 2: Backend Databse View](/screenshots/backend_db.png) ** 
+![Screenshot 1: Frontend App View](screenshots/frontend_ui.png)
+![Screenshot 2: Backend Databse View](screenshots/backend_db.png)
 
 **Contributing:**
 
